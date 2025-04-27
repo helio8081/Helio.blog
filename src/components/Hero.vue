@@ -6,7 +6,7 @@
     </h1>
     <div class="mt-6 text">
       <div>
-        <span>Front-end developer / Amateur designer.</span>
+        <span>designer / Front-end developer .</span>
       </div>
       <div class="mt-2">
         <span>I have more than two years of work experience</span>
